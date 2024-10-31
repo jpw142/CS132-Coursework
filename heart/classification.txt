@@ -1,0 +1,8 @@
+r = 1 metrics
+	Precision: 0.683
+	Recall: 0.701
+	Accuracy: 0.655
+r = 2 metrics
+	Precision: 0.684
+	Recall: 0.697
+	Accuracy: 0.655
